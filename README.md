@@ -28,9 +28,9 @@
         <ul>
             <li>1.前端语言：HTML5/CSS2/CSS3/Javascript</li>
             <li>2.前端工具：Grunt/Gulp/Less/Sass</li>
-            <li>3.前端框架：jQuery/Bootstrap</li>
+            <li>3.前端框架：jQuery/Bootstrap/DWZ/easyUI</li>
             <li>4.版本管理：GIT/SVN</li>
-            <li>5.编码工具：SublimeText3</li>
+            <li>5.编码工具：SublimeText3/HBuilder </li>
             <li>6.切片工具：Photoshop</li>
             <li>7.具有兼容各个版本浏览器的经验</li>
             <li>8.对移动端响应式网页有一定程度的经验</li>
