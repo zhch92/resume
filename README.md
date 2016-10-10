@@ -18,11 +18,11 @@
                 </tr>
                 <tr>
                     <td colspan="1">电&nbsp;&nbsp;话：</td>
-                    <td colspan="7">13438387589</td>
+                    <td colspan="9">13438387589</td>
                 </tr>
                 <tr>
                     <td colspan="1">Email：</td>
-                    <td colspan="7">2055472983@qq.com</td>
+                    <td colspan="9">2055472983@qq.com</td>
                 </tr>
             </tbody>
         </table>
