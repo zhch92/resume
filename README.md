@@ -13,6 +13,8 @@
                     <td>西华大学</td>
                     <td>&nbsp;&nbsp;&nbsp;专业:</td>
                     <td>&nbsp;汽车制造与装配</td>
+                    <td>工作经验</td>
+                    <td>2年</td>
                 </tr>
                 <tr>
                     <td colspan="1">电&nbsp;&nbsp;话：</td>
